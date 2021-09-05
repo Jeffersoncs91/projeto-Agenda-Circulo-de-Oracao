@@ -1,0 +1,413 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    table, th, td {
+      border: 1px solid black;
+    }
+    a:link { 
+ text-decoration:none; 
+} 
+    </style>
+    </head>
+    <body>
+    
+    <h2>Agenda Circulo de Oração Segunda-Feira - IEADPE</h2>
+    <p>Circulo de Oração Acontece nas Congregações Abaixo de 09:00 AS 16:00 Horas.</p>
+    <table style="width:100%">
+      <tr>
+        <th><a href="a1.html" target="iframe_a">ÁREA 01</a></th>
+        <th><a href="a2.html" target="iframe_a">ÁREA 02</a></th> 
+        <th><a href="a3.html" target="iframe_a">ÁREA 03</a></th>
+        <th><a href="a4.html" target="iframe_a">ÁREA 04</a></th>
+      </tr>
+           <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+           </tr>
+           <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>          
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>          
+            </tr>         
+      <tr>
+        <th><a href="a5.html" target="iframe_a">ÁREA 05</a></th>
+        <th><a href="a6.html" target="iframe_a">ÁREA 06</a></th>
+        <th><a href="a7.html" target="iframe_a">ÁREA 07</a></th>
+        <th><a href="a8.html" target="iframe_a">ÁREA 08</a></th>
+      </tr>
+      <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+           </tr>
+           <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>          
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>          
+            </tr>         
+        <tr>
+            <th><a href="a9.html" target="iframe_a">ÁREA 09</a></th>
+            <th><a href="a10.html" target="iframe_a">ÁREA 10</a></th>
+            <th><a href="a11.html" target="iframe_a">ÁREA 11</a></th>
+            <th><a href="a12.html" target="iframe_a">ÁREA 12</a></th>    
+          </tr>
+        <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+           </tr>
+           <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>          
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>          
+            </tr>          
+          <tr>
+            <th><a href="a13.html" target="iframe_a">ÁREA 13</a></th>
+            <th><a href="a14.html" target="iframe_a">ÁREA 14</a></th> 
+            <th><a href="a15.html" target="iframe_a">ÁREA 15</a></th>
+            <th><a href="a16.html" target="iframe_a">ÁREA 16</a></th>  
+          </tr>
+          <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+           </tr>
+           <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>          
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>          
+            </tr>         
+          <tr>
+            <th><a href="a17.html" target="iframe_a">ÁREA 17</a></th>
+            <th><a href="a18.html" target="iframe_a">ÁREA 18</a></th> 
+            <th><a href="a19.html" target="iframe_a">ÁREA 19</a></th>
+            <th><a href="a20.html" target="iframe_a">ÁREA 20</a></th>  
+          </tr>
+          <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+           </tr>
+           <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>          
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>          
+            </tr>         
+          <tr>
+            <th><a href="a21.html" target="iframe_a">ÁREA 21</a></th>
+            <th><a href="a22.html" target="iframe_a">ÁREA 22</a></th> 
+            <th><a href="a23.html" target="iframe_a">ÁREA 23</a></th>
+            <th><a href="a24.html" target="iframe_a">ÁREA 24</a></th>  
+          </tr>
+          <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+           </tr>
+           <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>          
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>          
+            </tr>         
+          <tr>
+            <th><a href="a25.html" target="iframe_a">ÁREA 25</a></th>
+            <th><a href="a26.html" target="iframe_a">ÁREA 26</a></th> 
+            <th><a href="a27.html" target="iframe_a">ÁREA 27</a></th>
+            <th><a href="a28.html" target="iframe_a">ÁREA 28</a></th>  
+          </tr>
+          <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+           </tr>
+           <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>          
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>          
+            </tr>         
+          <tr>
+            <th><a href="a29.html" target="iframe_a">ÁREA 29</a></th>
+            <th><a href="a30.html" target="iframe_a">ÁREA 30</a></th> 
+            <th><a href="a31.html" target="iframe_a">ÁREA 31</a></th>
+            <th><a href="a32.html" target="iframe_a">ÁREA 32</a></th>  
+          </tr>
+          <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+           </tr>
+           <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>          
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>          
+            </tr>         
+          <tr>
+            <th><a href="a33.html" target="iframe_a">ÁREA 33</a></th>
+            <th><a href="a34.html" target="iframe_a">ÁREA 34</a></th> 
+            <th><a href="a35.html" target="iframe_a">ÁREA 35</a></th>
+            <th><a href="a36.html" target="iframe_a">ÁREA 36</a></th>  
+          </tr>
+          <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+           </tr>
+           <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>          
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>          
+            </tr>          
+          <tr>
+            <th><a href="a37.html" target="iframe_a">ÁREA 37</a></th>
+            <th><a href="a38.html" target="iframe_a">ÁREA 38</a></th> 
+            <th><a href="a39.html" target="iframe_a">ÁREA 39</a></th>
+            <th><a href="a40.html" target="iframe_a">ÁREA 40</a></th>  
+          </tr>
+          <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+           </tr>
+           <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>          
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>          
+            </tr>         
+          <tr>
+            <th><a href="a41.html" target="iframe_a">ÁREA 41</a></th>
+            <th><a href="a42.html" target="iframe_a">ÁREA 42</a></th> 
+            <th><a href="a43.html" target="iframe_a">ÁREA 43</a></th>
+            <th><a href="a44.html" target="iframe_a">ÁREA 44</a></th>  
+          </tr>
+         <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+           </tr>
+           <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>          
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>          
+            </tr>          
+          <tr>
+            <th><a href="a45.html" target="iframe_a">ÁREA 45</a></th>
+            <th><a href="a46.html" target="iframe_a">ÁREA 46</a></th> 
+            <th><a href="a47.html" target="iframe_a">ÁREA 47</a></th>
+            <th><a href="a48.html" target="iframe_a">ÁREA 48</a></th>  
+          </tr>
+         <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+          </tr>
+          <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>          
+         </tr>
+          <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>          
+           </tr>              
+           
+          <tr>
+            <th><a href="a49.html" target="iframe_a">ÁREA 49</a></th>
+            <th><a href="a50.html" target="iframe_a">ÁREA 50</a></th> 
+            <th><a href="a51.html" target="iframe_a">ÁREA 51</a></th>
+            <th><a href="a52.html" target="iframe_a">ÁREA 52</a></th>  
+          </tr>
+           <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+           </tr>
+           <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>          
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>          
+            </tr>                
+          <tr>
+            <th><a href="a53.html" target="iframe_a">ÁREA 53</a></th>
+            <th><a href="a54.html" target="iframe_a">ÁREA 54</a></th> 
+            <th><a href="a55.html" target="iframe_a">ÁREA 55</a></th>
+            <th><a href="a56.html" target="iframe_a">ÁREA 56</a></th> 
+          </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+              </tr>
+              <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>          
+              </tr>
+              <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>          
+              </tr>              
+          <tr>
+            <th><a href="a57.html" target="iframe_a">ÁREA 57</a></th>
+            <th><a href="a58.html" target="iframe_a">ÁREA 58</a></th> 
+            <th><a href="a59.html" target="iframe_a">ÁREA 59</a></th>
+            <th><a href="a60.html" target="iframe_a">ÁREA 60</a></th> 
+          </tr>
+          <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                </tr>
+              <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>          
+              </tr>
+              <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>          
+              </tr>              
+          <tr>
+            <th><a href="a61.html" target="iframe_a">ÁREA 61</a></th>
+            <th><a href="a62.html" target="iframe_a">ÁREA 62</a></th> 
+            <th><a href="a63.html" target="iframe_a">ÁREA 63</a></th>
+            <th><a href="a64.html" target="iframe_a">ÁREA 64</a></th>
+          </tr>
+           <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                </tr>
+              <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>          
+              </tr>
+              <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>          
+              </tr>              
+                       
+    </table>
+    
+</body>
+</html>
+             
